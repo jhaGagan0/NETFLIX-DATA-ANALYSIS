@@ -27,18 +27,28 @@ To perform **exploratory data analysis (EDA)** and create a compelling **interac
 
 ## 🧠 Key Questions Explored
 
-Here are the extracted questions from your conclusion section:
 What are the Top 10 Most Popular Movies on Netflix?
+
 What genre has the highest total vote count?
+
 Is there any correlation between Vote Average and Popularity?
+
 Which are the Top 5 Genres by Total Popularity?
+
 What genre has the highest average popularity?
+
 What does the relationship between Vote Average and Popularity look like?
+
 What is the most frequent genre in the dataset?
+
 What genre has the highest votes?
+
 What movie got the highest popularity? What’s its genre?
+
 What movie got the lowest popularity? What’s its genre?
+
 Which year has the most filmed movies?
+
 
 
 ---
